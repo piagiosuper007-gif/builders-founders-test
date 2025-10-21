@@ -1,2 +1,11 @@
-# builders-founders-test
-First commit for Builders & Founders
+# Builders & Founders Test
+
+This repository is created to verify the **Guild.xyz Base - Builders & Founders** task.
+
+## Info
+- Creator: piagiosuper
+- Purpose: Proof of having at least 1 commit
+- Date: October 21, 2025
+
+## Notes
+This commit is made to unlock the Guild.xyz role for Base ecosystem.
